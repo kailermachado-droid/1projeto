@@ -17,3 +17,17 @@ img{
     margin-left: 610px;
     border:10px dotted red;
 }   
+.img_cabecalho{
+height:325px;
+width:325px;
+border:325px;
+}
+.img_cabecalho:hover{
+    opacity: 0,08;
+}
+header{
+display:flex;
+background-color: rgb(73, 67, 160)
+padding:10px;
+}
+
